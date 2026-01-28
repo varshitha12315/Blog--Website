@@ -1,6 +1,6 @@
-## Professional React Blog Portfolio
+## Blog Website using React and Tailwind
 
-A clean, modern, and fully responsive blog website built with **React**, **Vite**, and **Tailwind CSS**. This project is designed for frontend portfolios to showcase skills in component-based architecture, routing, and UI/UX.
+A clean, modern, and fully responsive blog website built with **React**, **Vite**, and **Tailwind CSS**. 
 
 ### Features
 
@@ -86,4 +86,15 @@ npm run preview
   - `/blogs/:id` – Blog detail page
   - `/create` – Create blog page
 - Styling is implemented using **Tailwind CSS utility classes** only, with a clean white background, slate/indigo palette, soft shadows, and rounded corners.
+  
+  ## 👩‍💻 Author
+
+*Varshitha I P*  
+BE in Data Science | Aspiring Software Developer  
+
+Focused on building clean, scalable, and responsive web applications.  
+This project is part of my internship-focused portfolio to demonstrate front-end development skills.
+
+- GitHub: https://github.com/varshitha12315
+- LinkedIn: https://www.linkedin.com/in/varshitha-i-p-46852b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
